@@ -1,0 +1,17 @@
+{
+  "name": "responsive",
+  "repo": "shallker/responsive",
+  "description": "Responsive element",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"  
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "component.js",
+  "scripts": [
+    "component.js",
+    "lib/responsive.js"
+  ]
+}

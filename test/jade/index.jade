@@ -1,0 +1,13 @@
+doctype 5
+html
+  head
+    title Responsive
+    script(src="../build/build.js")
+
+  body
+    .menu(responsive)
+
+    script
+      var responsive = require('responsive');
+      responsive.add('tablet', 1020);
+      responsive.add('mobile', 480);
