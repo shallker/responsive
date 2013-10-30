@@ -3,12 +3,6 @@
     "port": 3435,
     "host": "./"
   },
-  "compile": {
-    "jade": {
-      "input": "./test/jade/*.jade",
-      "output": "./test/",
-      "pretty": true
-    }
-  },
+
   "liverefresh": "./"
 }
