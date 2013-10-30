@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test</title>
+    <script src="/build/build.js"></script>
+  </head>
+  <body>
+    <div responsive class="menu"></div>
+    <script>
+      var responsive = require('responsive');
+
+      responsive.add('desktop', 999999);
+      responsive.add('tablet', 1020);
+      responsive.add('mobile', 480);
+    </script>
+  </body>
+</html>
