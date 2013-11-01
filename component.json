@@ -1,7 +1,7 @@
 {
   "name": "responsive",
   "repo": "shallker/responsive",
-  "description": "Responsive element",
+  "description": "Let an element be responsive in no time",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {

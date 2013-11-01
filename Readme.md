@@ -1,6 +1,6 @@
 # responsive
 
-  Responsive element
+  Let an element be responsive in no time
 
 
 ## Installation
